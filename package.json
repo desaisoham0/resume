@@ -1,0 +1,18 @@
+{
+    "name": "resume",
+    "version": "1.0.0",
+    "description": "A project for my resume",
+    "main": "index.js",
+    "scripts": {
+      "deploy": "node index.js",
+      "start": "echo 'Deploy script not defined"
+    },
+    "author": "Soham Desai",
+    "license": "MIT",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+    }
+  }
+  
